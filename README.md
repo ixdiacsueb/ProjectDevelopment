@@ -24,13 +24,13 @@ Congratulations you have made it to the first phase of your thesis research proj
 ### BOOKS
 
 ### Recommended Books:
-* Age of Context: Mobile, Sensors, Data and the Future of Privacy
-* The Interface Effect
-* Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemakers
-* The Pocket Universal Methods of Design  - https://amzn.to/2IIRd0V
-http://proquest.safaribooksonline.com.proxylib.csueastbay.edu/book/design/9781631595349
-* The Design of Everyday Things: Revised and Expanded Edition -https://amzn.to/2GhGEUq
-* Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days - https://amzn.to/2IMI8V1
+* [Age of Context: Mobile, Sensors, Data and the Future of Privacy](https://amzn.to/2IXkMMo)
+* [The Interface Effect](https://amzn.to/2GCsc9x)
+* [Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemakers](https://amzn.to/2Gf8p0D)
+* [The Pocket Universal Methods of Design](https://amzn.to/2IIRd0V)
+  [The Pocket Universal Methods of Design-safari books](http://proquest.safaribooksonline.com.proxylib.csueastbay.edu/book/design/9781631595349)
+* [The Design of Everyday Things: Revised and Expanded Edition](https://amzn.to/2GhGEUq)
+* [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://amzn.to/2IMI8V1)
 
 ### Materials
 ___Required___: Selection of 5-10 Colored Markers, a Sketchbook, 2-3 Pens, square regular sized Post-it's or Sticky Notes
