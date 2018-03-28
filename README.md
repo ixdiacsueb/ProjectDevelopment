@@ -62,15 +62,17 @@ California State University, East Bay is committed to being a safe and caring co
 http://www20.csueastbay.edu/af/departments/risk-management/ehs/emergency-management/index.html
 Please be familiar with these procedures. Information on this page is updated as required. Please review the information on a regular basis.
 
-### Provisional Weekly Schedule (subject to change)
+## Provisional Weekly Schedule (subject to change)
 
-General thoughts
- maker fair
- game jam
- dynamic land
- practice community of practice
- faculty led research course
+#### You will be asked to attend:
+ * Maker Fair
 
+#### You should Attend:
+ * Game Jam
+ * Dynamic Land Session
+
+#### You should connect to:
+ * Community of Practice
 
 #### ONE
 * The big picture - portfolio and job prospects
