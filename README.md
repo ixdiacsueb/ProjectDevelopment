@@ -47,16 +47,18 @@ ___Optional___: plasticine/playdo, legos, carboard, x-acto knife
 | Project 2.1	| 20%|
 | Project 2.1	| 15%|
 
-_ The work in this course is evaluated by the thesis committee. _
+___The work in this course is evaluated by the thesis committee.___
 
 You must pass the individual thesis project requirement before advancing in the team thesis project.
 
-__ Failure to complete either project may keep you from advancing to the thesis project stage of this program.__
+___Failure to complete either project may keep you from advancing to the thesis project stage of this program.___
 
 ### Academic Honesty
 By enrolling in this class the student agrees to uphold the standards of academic integrity described at http://www20.csueastbay.edu/academic/academic-policies/academic-dishonesty.html.
+
 ### Accommodations for Disabilities
 If you have a documented disability and wish to discuss academic accommodations, or if you would need assistance in the event of an emergency evacuation, please contact me as soon as possible. Students with disabilities needing accommodation should speak with the Accessibility Services.
+
 ### Emergencies
 California State University, East Bay is committed to being a safe and caring community. Your appropriate response in the event of an emergency can help save lives. Information on what to do in an emergency situation (earthquake, electrical outage, fire, extreme heat, severe storm, hazardous materials, terrorist attack) may be found at:
 http://www20.csueastbay.edu/af/departments/risk-management/ehs/emergency-management/index.html
