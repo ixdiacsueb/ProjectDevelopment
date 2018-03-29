@@ -84,7 +84,7 @@ General thoughts
 * prior art research
 * project abstracts, narrative, content,
 * task analysis / mental models
-* Video discussion
+* [presentation](https://docs.google.com/presentation/d/e/2PACX-1vTvXSABGRKNj_3YxUFCPcB7bKyTpf_y719pieos53PBdjXOSEouBo6uInT_xIsfkBKcIL9_UtXaG96s/pub?start=false&loop=false&delayms=3000)
 * Sky is the Limit
 * Community of Practice/Networking - sign up and go to 2 meet-ups in your area of interest, identify 2 conferences and deadlines for submissions
 
