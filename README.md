@@ -66,27 +66,28 @@ Please be familiar with these procedures. Information on this page is updated as
 
 ### Provisional Weekly Schedule (subject to change)
 
-General thoughts
- maker fair
- game jam
- dynamic land
- practice community of practice
- faculty led research course
+* General thoughts
+* Makerfair
+* Gamejam
+* DynamicLand
+* Community of practice
+* Faculty led research course
 
 
 #### ONE
 * The big picture - portfolio and job prospects
 * The small picture - definable, measurable, achievable
-* How to learn everything in 2 days
+* How to learn everything
 * Rigor, depth and critical thinking
 * Creativity
 * Syllabus, expectations, projects, research problem, research question
-* prior art research
-* project abstracts, narrative, content,
-* task analysis / mental models
+* Prior art research
+* Project abstracts, narrative, content,
+* Task analysis / mental models
 * [presentation](https://docs.google.com/presentation/d/e/2PACX-1vTvXSABGRKNj_3YxUFCPcB7bKyTpf_y719pieos53PBdjXOSEouBo6uInT_xIsfkBKcIL9_UtXaG96s/pub?start=false&loop=false&delayms=3000)
 * Sky is the Limit
 * Community of Practice/Networking - sign up and go to 2 meet-ups in your area of interest, identify 2 conferences and deadlines for submissions
+* http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/
 
 #### TWO
 ##### Individual project
@@ -109,15 +110,12 @@ General thoughts
 * Second draft
 * First draft of presentation
 * Individual project proposal draft Presentations
-
 * DUE - Individual Project Proposal Paper to Committee
-
 
 #### FIVE
 * Final draft
 * Final draft of  presentation where you live radio live
 * Individual Project Proposal Presentation to Committee
-
 
 #### SIX
 ##### Team project
@@ -148,5 +146,3 @@ General thoughts
 * Final presentation of individual proposal
 * Final presentation of group project proposal
 * Final presentation of video trailer
-
- 
