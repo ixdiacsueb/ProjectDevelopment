@@ -73,23 +73,7 @@ Please be familiar with these procedures. Information on this page is updated as
 * Community of practice
 * Faculty led research course
 
-|WEEK|DATE|TOPICS|DUE|
-|---|---|---|---|
-|ONE| 3.28.18|* The big picture - portfolio and job prospects
-* The small picture - definable, measurable, achievable
-* How to learn everything
-* Rigor, depth and critical thinking
-* Creativity
-* Syllabus, expectations, projects, research problem, research question
-* Prior art research
-* Project abstracts, narrative, content,
-* Task analysis / mental models
-* [presentation](https://docs.google.com/presentation/d/e/2PACX-1vTvXSABGRKNj_3YxUFCPcB7bKyTpf_y719pieos53PBdjXOSEouBo6uInT_xIsfkBKcIL9_UtXaG96s/pub?start=false&loop=false&delayms=3000)
-* Sky is the Limit
-* Community of Practice/Networking - sign up and go to 2 meet-ups in your area of interest, identify 2 conferences and deadlines for submissions
-* http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/|   |
-
-#### ONE
+#### ONE 3/28/18
 * The big picture - portfolio and job prospects
 * The small picture - definable, measurable, achievable
 * How to learn everything
@@ -104,7 +88,7 @@ Please be familiar with these procedures. Information on this page is updated as
 * Community of Practice/Networking - sign up and go to 2 meet-ups in your area of interest, identify 2 conferences and deadlines for submissions
 * http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/
 
-#### TWO
+#### TWO 4/4/18
 ##### Individual project
 * how to choose a research question
 * How to iterate across several research questions
@@ -113,7 +97,7 @@ Please be familiar with these procedures. Information on this page is updated as
 * First draft of individual proposal paper
 * Conceptual underpinnings, prior art, research, task analysis, wbs, prototyping
 
-#### THREE
+#### THREE 4/11/18
 * First draft and revisions
 * Second draft of individual proposal paper and first draft of presentation
 * Risks, Measures of success, scheduling
@@ -121,32 +105,32 @@ Please be familiar with these procedures. Information on this page is updated as
 * Gantt Charts
 * Budgeting
 
-#### FOUR
+#### FOUR 4/18/18
 * Second draft
 * First draft of presentation
 * Individual project proposal draft Presentations
 * DUE - Individual Project Proposal Paper to Committee
 
-#### FIVE
+#### FIVE 4/25/18
 * Final draft
 * Final draft of  presentation where you live radio live
 * Individual Project Proposal Presentation to Committee
 
-#### SIX
+#### SIX 5/2/18
 ##### Team project
 * Review of feedback on individual Proposals (sign up list)
 * Ideation Session - Teams & Ideas
 
-#### SEVEN
+#### SEVEN 5/9/18
 * First draft
 * Group project presentations, followed by discussion
 
-#### EIGHT
+#### EIGHT 5/16/18
 * Second draft
 * First draft of thesis proposal paper -  peer sharing and consultations
 * Conceptual underpinnings, prior art, research, prototyping
 
-#### NINE
+#### NINE 5/23/18
 * First draft trailer
 * Second draft of thesis proposal paper reading
 * Risks, Measures of success, scheduling, prototyping, summer plan
@@ -154,10 +138,10 @@ Please be familiar with these procedures. Information on this page is updated as
 * First draft video trailer
 * Final Project Proposal Paper to Committee
 
-#### TEN
+#### TEN 5/30/18
 * Dress Rehearsal
 
-#### FINALS
+#### FINALS 6/6/18
 * Final presentation of individual proposal
 * Final presentation of group project proposal
 * Final presentation of video trailer
