@@ -73,6 +73,21 @@ Please be familiar with these procedures. Information on this page is updated as
 * Community of practice
 * Faculty led research course
 
+|WEEK|DATE|TOPICS|DUE|
+|---|---|---|---|
+|ONE| 3.28.18|* The big picture - portfolio and job prospects
+* The small picture - definable, measurable, achievable
+* How to learn everything
+* Rigor, depth and critical thinking
+* Creativity
+* Syllabus, expectations, projects, research problem, research question
+* Prior art research
+* Project abstracts, narrative, content,
+* Task analysis / mental models
+* [presentation](https://docs.google.com/presentation/d/e/2PACX-1vTvXSABGRKNj_3YxUFCPcB7bKyTpf_y719pieos53PBdjXOSEouBo6uInT_xIsfkBKcIL9_UtXaG96s/pub?start=false&loop=false&delayms=3000)
+* Sky is the Limit
+* Community of Practice/Networking - sign up and go to 2 meet-ups in your area of interest, identify 2 conferences and deadlines for submissions
+* http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/|   |
 
 #### ONE
 * The big picture - portfolio and job prospects
