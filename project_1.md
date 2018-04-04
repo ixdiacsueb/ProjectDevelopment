@@ -1,4 +1,4 @@
-# Project 1
+# Project 1 - INDIVIDUAL PROPOSAL
 ## Project 1: Part 1 - Written Proposal
 You will individually craft and submit a written proposal for a project that would take you approximately ten weeks to render to practice (complete) by yourself, with no help from others. You will not actually be completing this project. Instead, you will be assessed on your ability to craft and deliver a proposal of a project that can be rendered to practice. This written proposal, in conjunction with the second part of this project, will determine your eligibility to move on to candidacy and the thesis proposal phase of the course and the Multimedia Graduate Program.
 ### Guidelines
