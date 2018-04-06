@@ -24,13 +24,13 @@ Congratulations you have made it to the first phase of your thesis research proj
 ### BOOKS
 
 ### Recommended Books:
-* Age of Context: Mobile, Sensors, Data and the Future of Privacy
-* The Interface Effect
-* Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemakers
-* The Pocket Universal Methods of Design  - https://amzn.to/2IIRd0V
-http://proquest.safaribooksonline.com.proxylib.csueastbay.edu/book/design/9781631595349
-* The Design of Everyday Things: Revised and Expanded Edition -https://amzn.to/2GhGEUq
-* Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days - https://amzn.to/2IMI8V1
+* [Age of Context: Mobile, Sensors, Data and the Future of Privacy](https://amzn.to/2IXkMMo)
+* [The Interface Effect](https://amzn.to/2GCsc9x)
+* [Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemakers](https://amzn.to/2Gf8p0D)
+* [The Pocket Universal Methods of Design](https://amzn.to/2IIRd0V)
+  [The Pocket Universal Methods of Design-safari books](http://proquest.safaribooksonline.com.proxylib.csueastbay.edu/book/design/9781631595349)
+* [The Design of Everyday Things: Revised and Expanded Edition](https://amzn.to/2GhGEUq)
+* [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://amzn.to/2IMI8V1)
 
 ### Materials
 ___Required___: Selection of 5-10 Colored Markers, a Sketchbook, 2-3 Pens, square regular sized Post-it's or Sticky Notes
@@ -47,16 +47,18 @@ ___Optional___: plasticine/playdo, legos, carboard, x-acto knife
 | Project 2.1	| 20%|
 | Project 2.1	| 15%|
 
-_ The work in this course is evaluated by the thesis committee. _
+___The work in this course is evaluated by the thesis committee.___
 
 You must pass the individual thesis project requirement before advancing in the team thesis project.
 
-__ Failure to complete either project may keep you from advancing to the thesis project stage of this program.__
+___Failure to complete either project may keep you from advancing to the thesis project stage of this program.___
 
 ### Academic Honesty
 By enrolling in this class the student agrees to uphold the standards of academic integrity described at http://www20.csueastbay.edu/academic/academic-policies/academic-dishonesty.html.
+
 ### Accommodations for Disabilities
 If you have a documented disability and wish to discuss academic accommodations, or if you would need assistance in the event of an emergency evacuation, please contact me as soon as possible. Students with disabilities needing accommodation should speak with the Accessibility Services.
+
 ### Emergencies
 California State University, East Bay is committed to being a safe and caring community. Your appropriate response in the event of an emergency can help save lives. Information on what to do in an emergency situation (earthquake, electrical outage, fire, extreme heat, severe storm, hazardous materials, terrorist attack) may be found at:
 http://www20.csueastbay.edu/af/departments/risk-management/ehs/emergency-management/index.html
@@ -64,6 +66,7 @@ Please be familiar with these procedures. Information on this page is updated as
 
 ## Provisional Weekly Schedule (subject to change)
 
+<<<<<<< HEAD
 #### You will be asked to attend:
  * Maker Fair
 
@@ -75,20 +78,31 @@ Please be familiar with these procedures. Information on this page is updated as
  * Community of Practice
 
 #### ONE
+=======
+* General thoughts
+* Makerfair
+* Gamejam
+* DynamicLand
+* Community of practice
+* Faculty led research course
+
+#### ONE 3/28/18
+>>>>>>> 52932313d8835d5ab6eddfc21d0476b7310f349d
 * The big picture - portfolio and job prospects
 * The small picture - definable, measurable, achievable
-* How to learn everything in 2 days
+* How to learn everything
 * Rigor, depth and critical thinking
 * Creativity
 * Syllabus, expectations, projects, research problem, research question
-* prior art research
-* project abstracts, narrative, content,
-* task analysis / mental models
-* Video discussion
+* Prior art research
+* Project abstracts, narrative, content,
+* Task analysis / mental models
+* [presentation](https://docs.google.com/presentation/d/e/2PACX-1vTvXSABGRKNj_3YxUFCPcB7bKyTpf_y719pieos53PBdjXOSEouBo6uInT_xIsfkBKcIL9_UtXaG96s/pub?start=false&loop=false&delayms=3000)
 * Sky is the Limit
 * Community of Practice/Networking - sign up and go to 2 meet-ups in your area of interest, identify 2 conferences and deadlines for submissions
+* http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/
 
-#### TWO
+#### TWO 4/4/18
 ##### Individual project
 * how to choose a research question
 * How to iterate across several research questions
@@ -97,7 +111,7 @@ Please be familiar with these procedures. Information on this page is updated as
 * First draft of individual proposal paper
 * Conceptual underpinnings, prior art, research, task analysis, wbs, prototyping
 
-#### THREE
+#### THREE 4/11/18
 * First draft and revisions
 * Second draft of individual proposal paper and first draft of presentation
 * Risks, Measures of success, scheduling
@@ -105,35 +119,32 @@ Please be familiar with these procedures. Information on this page is updated as
 * Gantt Charts
 * Budgeting
 
-#### FOUR
+#### FOUR 4/18/18
 * Second draft
 * First draft of presentation
 * Individual project proposal draft Presentations
-
 * DUE - Individual Project Proposal Paper to Committee
 
-
-#### FIVE
+#### FIVE 4/25/18
 * Final draft
 * Final draft of  presentation where you live radio live
 * Individual Project Proposal Presentation to Committee
 
-
-#### SIX
+#### SIX 5/2/18
 ##### Team project
 * Review of feedback on individual Proposals (sign up list)
 * Ideation Session - Teams & Ideas
 
-#### SEVEN
+#### SEVEN 5/9/18
 * First draft
 * Group project presentations, followed by discussion
 
-#### EIGHT
+#### EIGHT 5/16/18
 * Second draft
 * First draft of thesis proposal paper -  peer sharing and consultations
 * Conceptual underpinnings, prior art, research, prototyping
 
-#### NINE
+#### NINE 5/23/18
 * First draft trailer
 * Second draft of thesis proposal paper reading
 * Risks, Measures of success, scheduling, prototyping, summer plan
@@ -141,12 +152,10 @@ Please be familiar with these procedures. Information on this page is updated as
 * First draft video trailer
 * Final Project Proposal Paper to Committee
 
-#### TEN
+#### TEN 5/30/18
 * Dress Rehearsal
 
-#### FINALS
+#### FINALS 6/6/18
 * Final presentation of individual proposal
 * Final presentation of group project proposal
 * Final presentation of video trailer
-
- 

@@ -1,4 +1,4 @@
-# Project 2
+# Project 2 - GROUP THESIS PROPOSAL
 ## Project 2: Part 1
 Amongst your colleagues, you will form potential thesis teams and, as a group, craft and submit a written proposal for a thesis project that would take one academic year (Summer, Fall, Winter, and Spring) to render to practice (complete) by all members of the team, with no help from others.
 You will present this proposal in a formal presentation which will include a 3 minute video trailer of high quality.
