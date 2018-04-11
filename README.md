@@ -83,18 +83,81 @@ Please be familiar with these procedures. Information on this page is updated as
 * DynamicLand
 * Community of practice
 * Faculty led research course
-
-
-| SESSION 	| TOPICS 	| DUE 	|  NOTES	|
-|---	|--- |---	|--- |
-| ONE - 3/28/28	| __The big picture__(portfolio and job prospects) __and The small picture__(definable, measurable, achievable, proposal template), Syllabus, expectations, projects,,research problem, research question, prior art research This __Join Communities of Practice/Networking__ - sign up and go to 2,meet-ups in your area of interest, identify 2 conferences and deadlines,for submissions*,	| 	|1. [____presentation____](https://docs.google.com/presentation/d/e/2PACX-1vTvXSABGRKNj_3YxUFCPcB7bKyTpf_y719pieos53PBdjXOSEouBo6uInT_xIsfkBKcIL9_UtXaG96s/pub?start=false&loop=false&delayms=3000) 2. [___article___](http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research) 	|
-| TWO - 4/4/18	| __How and why to choose a research problem and question__ How to iterate across several research questions* How to find prior art and prior literature* WBS and Gantt chart - Liquid Planner* First draft of individual proposal paper* Conceptual underpinnings, prior art, research, task analysis, wbs, prototyping 	| __DUE IN CLASS:__ Rough Draft __DUE Saturday:__ First Draft	|  	|
-| THREE - 4/11/18	| __Discussion of second draft of individual proposal paper__ and first draft of presentation ___Risks, Measures of Success___ , ___Scheduling___ Work breakdown schedule, PERT diagram, Gantt Charts, Budgeting 	|__DUE IN CLASS:__ First draft and revisions 	|  	|
-| FOUR - 4/18/18	| Individual project proposal draft Presentations 	| __DUE IN CLASS:__ Second draft of proposal & First draft of presentation __DUE FRIDAY__ Individual Project Proposal Paper to Committee 	|  	|
-| FIVE - 4/25/18	| Individual Project Proposal Presentation to Committee	| __DUE IN CLASS:__ Final draft of presentation	|  	|
-| SIX - 5/2/18	| __Team project__ Review of feedback on individual Proposals (sign up list) __Ideation Session - Teams & Ideas__| __DUE IN CLASS:__ 	|  	|
-| SEVEN - 5/9/18	|  	|__First draft__Group project presentations, followed by discussion 	|__DUE IN CLASS:__  	|
-| EIGHT - 5/16/18	|  	|__Second draft__First draft of thesis proposal paper -,peer sharing and consultations* Conceptual underpinnings, prior art, research, prototyping 	|  __DUE IN CLASS:__	|
-| NINE - 5/23/18	|First draft trailer Second draft of thesis proposal paper reading* Risks, Measures of success, scheduling, prototyping, summer plan 	| __DUE IN CLASS:___ First draft project presentation__ First draft video trailer*  	|  	|
-| TEN - 5/30/18 	|  	| __DUE IN CLASS:__ 	| __DUE FRIDAY:__ Final Project Proposal Paper to committee 	|
-| FINAL PRESENTATION 6/6/18	| Final Project Proposal Paper Presentation to Committee 	| __DUE IN CLASS:__ Final Project Proposal Presentation	|  	|
+<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th>SESSION</th>
+<th>TOPICS</th>
+<th>DUE</th>
+<th>NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ONE - 3/28/28</td>
+<td><strong>The big picture</strong>(portfolio and job prospects) <strong>and The small picture</strong>(definable, measurable, achievable, proposal template), Syllabus, expectations, projects,research problem, research question, prior art research This <strong>Join Communities of Practice/Networking</strong> - sign up and go to 2,meet-ups in your area of interest, identify 2 conferences and deadlines,for submissions*,</td>
+<td></td>
+<td>1. <a href="https://docs.google.com/presentation/d/e/2PACX-1vTvXSABGRKNj_3YxUFCPcB7bKyTpf_y719pieos53PBdjXOSEouBo6uInT_xIsfkBKcIL9_UtXaG96s/pub?start=false&amp;loop=false&amp;delayms=3000"><strong><strong>presentation</strong></strong></a> 2. <a href="http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research"><strong><em>article</em></strong></a></td>
+</tr>
+<tr>
+<td>TWO - 4/4/18</td>
+<td><strong>How and why to choose a research problem and question</strong> How to iterate across several research questions* How to find prior art and prior literature* WBS and Gantt chart - Liquid Planner* First draft of individual proposal paper* Conceptual underpinnings, prior art, research, task analysis, wbs, prototyping</td>
+<td><strong>DUE IN CLASS:</strong> Rough Draft <strong>DUE Saturday:</strong> First Draft</td>
+<td></td>
+</tr>
+<tr>
+<td>THREE - 4/11/18</td>
+<td><strong>Discussion of second draft of individual proposal paper</strong> and first draft of presentation <strong><em>Risks, Measures of Success</em></strong> , <strong><em>Scheduling</em></strong> Work breakdown schedule, PERT diagram, Gantt Charts, Budgeting</td>
+<td><strong>DUE IN CLASS:</strong> First draft and revisions</td>
+<td></td>
+</tr>
+<tr>
+<td>FOUR - 4/18/18</td>
+<td>Individual project proposal draft Presentations</td>
+<td><strong>DUE IN CLASS:</strong> Second draft of proposal &amp; First draft of presentation <strong>DUE FRIDAY</strong> Individual Project Proposal Paper to Committee</td>
+<td></td>
+</tr>
+<tr>
+<td>FIVE - 4/25/18</td>
+<td>Individual Project Proposal Presentation to Committee</td>
+<td><strong>DUE IN CLASS:</strong> Final draft of presentation</td>
+<td></td>
+</tr>
+<tr>
+<td>SIX - 5/2/18</td>
+<td><strong>Team project</strong> Review of feedback on individual Proposals (sign up list) <strong>Ideation Session - Teams &amp; Ideas</strong></td>
+<td><strong>DUE IN CLASS:</strong></td>
+<td></td>
+</tr>
+<tr>
+<td>SEVEN - 5/9/18</td>
+<td></td>
+<td>__First draft__Group project presentations, followed by discussion</td>
+<td><strong>DUE IN CLASS:</strong></td>
+</tr>
+<tr>
+<td>EIGHT - 5/16/18</td>
+<td></td>
+<td>__Second draft__First draft of thesis proposal paper -,peer sharing and consultations* Conceptual underpinnings, prior art, research, prototyping</td>
+<td><strong>DUE IN CLASS:</strong></td>
+</tr>
+<tr>
+<td>NINE - 5/23/18</td>
+<td>First draft trailer Second draft of thesis proposal paper reading* Risks, Measures of success, scheduling, prototyping, summer plan</td>
+<td><strong>DUE IN CLASS:</strong>_ First draft project presentation__ First draft video trailer*</td>
+<td></td>
+</tr>
+<tr>
+<td>TEN - 5/30/18</td>
+<td></td>
+<td><strong>DUE IN CLASS:</strong></td>
+<td><strong>DUE FRIDAY:</strong> Final Project Proposal Paper to committee</td>
+</tr>
+<tr>
+<td>FINAL PRESENTATION 6/6/18</td>
+<td>Final Project Proposal Paper Presentation to Committee</td>
+<td><strong>DUE IN CLASS:</strong> Final Project Proposal Presentation</td>
+<td></td>
+</tr>
+</tbody>
+</table>
