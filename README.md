@@ -65,11 +65,8 @@ http://www20.csueastbay.edu/af/departments/risk-management/ehs/emergency-managem
 Please be familiar with these procedures. Information on this page is updated as required. Please review the information on a regular basis.
 
 ## Provisional Weekly Schedule (subject to change)
-
-<<<<<<< HEAD
 #### You will be asked to attend:
  * Maker Fair
-
 #### You should Attend:
  * Game Jam
  * Dynamic Land Session
@@ -77,85 +74,25 @@ Please be familiar with these procedures. Information on this page is updated as
 #### You should connect to:
  * Community of Practice
 
-#### ONE
-=======
+|Session|Topics|Due|
+|--|--|--|
+|#### ONE| 
 * General thoughts
 * Makerfair
 * Gamejam
 * DynamicLand
 * Community of practice
 * Faculty led research course
-
-#### ONE 3/28/18
->>>>>>> 52932313d8835d5ab6eddfc21d0476b7310f349d
-* The big picture - portfolio and job prospects
-* The small picture - definable, measurable, achievable
-* How to learn everything
-* Rigor, depth and critical thinking
-* Creativity
-* Syllabus, expectations, projects, research problem, research question
-* Prior art research
-* Project abstracts, narrative, content,
-* Task analysis / mental models
-* [presentation](https://docs.google.com/presentation/d/e/2PACX-1vTvXSABGRKNj_3YxUFCPcB7bKyTpf_y719pieos53PBdjXOSEouBo6uInT_xIsfkBKcIL9_UtXaG96s/pub?start=false&loop=false&delayms=3000)
-* Sky is the Limit
-* Community of Practice/Networking - sign up and go to 2 meet-ups in your area of interest, identify 2 conferences and deadlines for submissions
-* http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/
-
-#### TWO 4/4/18
-##### Individual project
-* how to choose a research question
-* How to iterate across several research questions
-* How to find prior art and prior literature
-* WBS and Gantt chart - Liquid Planner
-* First draft of individual proposal paper
-* Conceptual underpinnings, prior art, research, task analysis, wbs, prototyping
-
-#### THREE 4/11/18
-* First draft and revisions
-* Second draft of individual proposal paper and first draft of presentation
-* Risks, Measures of success, scheduling
-* Work breakdown schedule PERT diagram
-* Gantt Charts
-* Budgeting
-
-#### FOUR 4/18/18
-* Second draft
-* First draft of presentation
-* Individual project proposal draft Presentations
-* DUE - Individual Project Proposal Paper to Committee
-
-#### FIVE 4/25/18
-* Final draft
-* Final draft of  presentation where you live radio live
-* Individual Project Proposal Presentation to Committee
-
-#### SIX 5/2/18
-##### Team project
-* Review of feedback on individual Proposals (sign up list)
-* Ideation Session - Teams & Ideas
-
-#### SEVEN 5/9/18
-* First draft
-* Group project presentations, followed by discussion
-
-#### EIGHT 5/16/18
-* Second draft
-* First draft of thesis proposal paper -  peer sharing and consultations
-* Conceptual underpinnings, prior art, research, prototyping
-
-#### NINE 5/23/18
-* First draft trailer
-* Second draft of thesis proposal paper reading
-* Risks, Measures of success, scheduling, prototyping, summer plan
-* First draft project presentation
-* First draft video trailer
-* Final Project Proposal Paper to Committee
-
-#### TEN 5/30/18
-* Dress Rehearsal
-
-#### FINALS 6/6/18
-* Final presentation of individual proposal
-* Final presentation of group project proposal
-* Final presentation of video trailer
+| SESSION 	| TOPICS 	| DUE 	|  NOTES	|
+|--------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------	|---	|
+| ONE 	| __The big picture__(portfolio and job prospects) __The small picture__(definable, measurable, achievable, proposal template) How to learn everything* Rigor, depth,and critical thinking* Creativity* Syllabus, expectations, projects,,research problem, research question* Prior art research* Project,abstracts, narrative, content,* Task analysis / mental models*,[presentation](https://docs.google.com/presentation/d/e/2PACX-1vTvXSABGRKNj_3YxUFCPcB7bKyTpf_y719pieos53PBdjXOSEouBo6uInT_xIsfkBKcIL9_UtXaG96s/pub?start=false&loop=false&delayms=3000)*,Sky is the Limit* Community of Practice/Networking - sign up and go to 2,meet-ups in your area of interest, identify 2 conferences and deadlines,for submissions*,http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/ 	| 	|  	|
+| TWO 	| __ How and why to choose a research Problem and question__ How to iterate across several research questions* How to find prior art and prior literature* WBS and Gantt chart - Liquid Planner* First draft of individual proposal paper* Conceptual underpinnings, prior art, research, task analysis, wbs, prototyping 	| 	|  	|
+| THREE 	| * Second draft of individual proposal paper and first draft of presentation* Risks, Measures of success, scheduling* Work breakdown schedule PERT diagram* Gantt Charts* Budgeting 	|__First draft and revisions__ 	|  	|
+| FOUR 	| Individual project proposal draft Presentations 	| __IN CLASS__ :Second draft of proposal & First draft of presentation __FRIDAY__ Individual Project Proposal Paper to Committee 	|  	|
+| FIVE 	| __Final draft of presentation__ __Individual Project Proposal Presentation to Committee__ 	|  	|  	|
+| SIX 	| __Team project__ Review of feedback on individual Proposals (sign up list) __Ideation Session - Teams & Ideas__|  	|  	|
+| SEVEN 	|  	|__First draft__Group project presentations, followed by discussion 	|  	|
+| EIGHT 	|  	|__Second draft__First draft of thesis proposal paper -,peer sharing and consultations* Conceptual underpinnings, prior art, research, prototyping 	|  	|
+| NINE 	|__First draft trailer__ Second draft of thesis proposal paper reading* Risks, Measures of success, scheduling, prototyping, summer plan 	| __First draft project presentation__ First draft video trailer* Final Project Proposal Paper to Committee 	|  	|
+| TEN 	|  	|  	|  	|
+| FINAL PRESENTATION 	|  	|  	|  	|
