@@ -83,6 +83,8 @@ Please be familiar with these procedures. Information on this page is updated as
 * DynamicLand
 * Community of practice
 * Faculty led research course
+
+
 | SESSION 	| TOPICS 	| DUE 	|  NOTES	|
 |---	|--- |---	|--- |
 | ONE - 3/28/28	| __The big picture__(portfolio and job prospects) __and The small picture__(definable, measurable, achievable, proposal template), Syllabus, expectations, projects,,research problem, research question, prior art research This __Join Communities of Practice/Networking__ - sign up and go to 2,meet-ups in your area of interest, identify 2 conferences and deadlines,for submissions*,	| 	|1. [____presentation____](https://docs.google.com/presentation/d/e/2PACX-1vTvXSABGRKNj_3YxUFCPcB7bKyTpf_y719pieos53PBdjXOSEouBo6uInT_xIsfkBKcIL9_UtXaG96s/pub?start=false&loop=false&delayms=3000) 2. [___article___](http://www.uxbooth.com/articles/complete-beginners-guide-to-design-research) 	|
