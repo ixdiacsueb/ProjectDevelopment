@@ -154,17 +154,17 @@ Please be familiar with these procedures. Information on this page is updated as
   <p>Task Analysis - http://www.usabilitybok.org/task-analysis-modeling-methods</p>
   <p>Hierarchical Task Analysis - https://www.uxmatters.com/mt/archives/2010/02/hierarchical-task-analysis.php</p>
   <p>Lean Canvass - https://medium.com/@steve_mullen/an-introduction-to-lean-canvas-5c17c469d3e0<br>
-  </p></td>
+  Gannt Chart<br>
+  Asana<br>
+  Realtimeboard<br>
+  Trello  <br></td> IN CLASS:</strong> Final draft of presentatio
 </tr>
 <tr>
 <td><p>FOUR</p>
   <p>4/18/18</p></td>
-<td>Individual project proposal draft Presentations<br>  
-  Gannt Chart<br>
-  Asana<br>
-  Realtimeboard<br>
-  Trello  <br></td>
-<td><strong>DUE IN CLASS: First Draft Individual Proposal &amp; Presentation</strong><strong><br>
+<td>Individual project proposal draft Presentations<br>  WE WILL BE DISCUSSING YOUR PROPOSALS
+
+<td><strong>DUE IN CLASS: Second Draft Individual Proposal &amp; Presentation</strong><strong><br>
   FRIDAY</strong> Individual Project Proposal Paper to Committee</td>
 <td></td>
 </tr>
