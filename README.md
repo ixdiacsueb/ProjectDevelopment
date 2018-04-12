@@ -86,7 +86,7 @@ Please be familiar with these procedures. Information on this page is updated as
 
 
 
-<table class="table table-striped table-bordered">
+<table width="100%">
 <thead>
 <tr>
 <th>SESSION</th>
